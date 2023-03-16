@@ -35,4 +35,20 @@ The code produces the following
 
 ![](pics/openAI_barplot1.png)
 
+This is OK, but lets say we have our own data we wish to plot.
+
+we could ask the AI:
+
+`write a script in R to plot a barplot from existing data`
+
+and get the following:
+
+```
+# Load the data
+data <- read.csv("sales_data.csv")
+
+# Plot the barplot
+barplot(data$Sales, names.arg = data$Product, 
+        main = "Sales by Product", ylab = "Number of Sales", xlab = "Product Name")
+```
 
