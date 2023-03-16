@@ -31,6 +31,8 @@ When you run this code, you should see a bar graph with four bars, labeled "Appl
 
 ```
 The code produces the following 
+
+
 ![](pics/openAI_barplot1.png)
 
 
