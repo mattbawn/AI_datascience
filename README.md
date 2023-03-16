@@ -57,7 +57,7 @@ With the explaination:
 ```
 Here's what each line of the code does:
 
-We load the data from a CSV file named "sales_data.csv" into a data frame named data. You'll need to replace "sales_data.csv" with the name of your own file, or the file path if it's in a different directory.
+We load the data from a CSV file named "sales_data.csv" into a data frame named data. You'll need to replace "sales_data.csv" with the name of your own file, or the  file path if it's in a different directory.
 
 We use the barplot() function to create a barplot of the sales data. The first argument data$Sales specifies the height of each bar, which we're pulling from the "Sales" column of our data frame. The names.arg argument is used to label each bar with the corresponding product name, which we're pulling from the "Product" column of our data frame. The main argument specifies the main title of the graph, and the ylab and xlab arguments specify the labels for the y-axis and x-axis, respectively.
 
