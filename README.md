@@ -67,6 +67,27 @@ When you run this code, you should see a barplot of the sales data, with each ba
 
 ```
 
+We will of course, have to change the code to make the script work with our existing data `single-filtered.csv` and the different column names the data has.
+
+The code then becomes:
+
+```
+
+# Load the data
+#data <- read.csv("sales_data.csv")
+data <- read.csv("single-filtered.csv")
+
+# Plot the barplot
+# barplot(data$Sales, names.arg = data$Product, 
+#         main = "Sales by Product", ylab = "Number of Sales", xlab = "Product Name")
+barplot(data$strain, names.arg = data$snp_type, 
+        main = "Sales by Product", ylab = "Number of Sales", xlab = "Product Name")
+
+
+```
+
+which produces a plot like this:
+
 ![](pics/openAI_barplot2.png)
 
 
