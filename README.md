@@ -52,6 +52,8 @@ barplot(data$Sales, names.arg = data$Product,
         main = "Sales by Product", ylab = "Number of Sales", xlab = "Product Name")
 ```
 
+
+
 With the explaination:
 
 ```
@@ -67,3 +69,4 @@ When you run this code, you should see a barplot of the sales data, with each ba
 
 
 
+![](pics/openAI_barplot2.png)
