@@ -2,6 +2,11 @@
 
 ## Introduction
 
+### Learning Objectives
+
+- Reproduce a barplot in RStudio from existing data.
+- Understand the uses and limitations of artificial inteligence chatbots.
+
 ## Start
 
 ### Can we make a barplot in R using AI to generate the code
