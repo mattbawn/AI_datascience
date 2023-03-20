@@ -67,6 +67,6 @@ When you run this code, you should see a barplot of the sales data, with each ba
 
 ```
 
-
-
 ![](pics/openAI_barplot2.png)
+
+
