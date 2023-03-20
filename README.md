@@ -95,4 +95,19 @@ which produces a plot like this:
 
 ![](pics/openAI_barplot2.png)
 
+## ggplot
+
+```
+
+library(ggplot2)
+
+# Create the barplot using ggplot2
+p1 <- ggplot(data, aes(x=strain, y=snp_type)) +
+  geom_bar(stat="identity", fill="blue") +
+  xlab("Category") +
+  ylab("Count") +
+  ggtitle("My Barplot")
+  
+```  
+
 
