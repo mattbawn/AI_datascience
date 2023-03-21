@@ -1,4 +1,4 @@
-# How can we use open AI in assessment?
+## How can we use open AI in assessment?
 
 Here are some initial ideas:
 
