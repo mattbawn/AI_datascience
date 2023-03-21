@@ -2,6 +2,18 @@
 
 ## Introduction
 
+OpenAI can be a helpful tool for learning coding in R in a few ways:
+
+Access to vast amounts of information: OpenAI can provide access to a vast amount of information on coding in R. You can use OpenAI to search for tutorials, videos, and other resources that can help you learn R coding.
+
+Interactive learning: OpenAI can provide an interactive learning experience through its GPT-3-based models. You can ask OpenAI questions about R coding and it will provide you with answers in natural language. This can be a helpful way to learn R coding, especially if you are a beginner.
+
+Code completion: OpenAI can provide code completion suggestions that can help you write code faster and more accurately. For example, if you start typing a function in R, OpenAI can suggest the rest of the code based on what you have typed so far.
+
+Language translation: OpenAI can also be used to translate R code from one language to another. This can be helpful if you are working with R code written in a different language or if you need to translate R code for a project.
+
+Overall, OpenAI can be a powerful tool for learning coding in R, providing access to information, interactive learning, code completion, and language translation. However, it is important to note that OpenAI is just one tool and should be used in combination with other resources, such as books, online tutorials, and coding communities.
+
 ### Learning Objectives
 
 - Reproduce a barplot in RStudio from existing data.
